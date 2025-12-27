@@ -1,0 +1,6 @@
+URxvt*background: #303036
+URxvt*font: xft:DejaVu Sans Mono:size=12
+URxvt*clipboard: true
+URxvt*keysym.C-S-C: eval:selection_to_clipboard
+URxvt*keysym.C-S-V: eval:paste_clipboard
+URxvt*foreground: #ffffff
